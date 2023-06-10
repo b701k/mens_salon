@@ -8,11 +8,14 @@ We’re always looking for ways to improve our services and provide the best pos
 
 Thank you for your interest in the Men’s Salon project. We hope you find it useful and enjoyable!"
 
-Project URL : https://b701k.github.io/mens_salon/
-Project Link : https://zealous-moss-0c1781400.3.azurestaticapps.net/
-Project Demo Video : 
+# Project URL : https://b701k.github.io/mens_salon/
 
-Project Screenshot : 
+# Project Link : https://zealous-moss-0c1781400.3.azurestaticapps.net/
+
+# Project Demo Video : 
+
+
+# Project Screenshot : 
 ![Screenshot 1](https://github.com/b701k/mens_salon/assets/132773677/65704b25-76f7-4288-b225-8c0cdfb26859)
 ![Screenshot 2](https://github.com/b701k/mens_salon/assets/132773677/7e9d35b3-5747-43b6-9e11-b46a76fc51d7)
 ![Screenshot 3](https://github.com/b701k/mens_salon/assets/132773677/a5d06a33-3340-4917-825b-13e0c03f6203)
