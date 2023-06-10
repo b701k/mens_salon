@@ -12,7 +12,7 @@ Project GitHub Pages URL : https://b701k.github.io/mens_salon/
 
 Project Demo URL : https://zealous-moss-0c1781400.3.azurestaticapps.net/
 
-Project Demo Video URL : 
+Project Demo Video URL : https://youtu.be/fDf-puB8V0I
 
 
 Project Screenshot : 
