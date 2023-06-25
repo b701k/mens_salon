@@ -23,9 +23,6 @@ Project Demo Video URL : https://youtu.be/fDf-puB8V0I
 - Included the feedback survey form to increase the scope of improvement.
 
 
-Project GitHub Pages URL : https://b701k.github.io/mens_salon/
-
-
 # Project Screenshot : 
 
 ![Screenshot 1](https://github.com/b701k/mens_salon/assets/132773677/3eadb70e-32be-412c-a432-e7842a1e8f0c)
@@ -45,6 +42,8 @@ Project GitHub Pages URL : https://b701k.github.io/mens_salon/
 - CSS
 - Bootstrap
 - JavaScript
+
+- Project GitHub Pages URL : https://b701k.github.io/mens_salon/
 
 
 
