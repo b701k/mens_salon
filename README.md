@@ -24,7 +24,7 @@ Features and Functionalities :
 - Have an aesthetically pleasing visual design and architecture.
 - Has a collection of many web pages including Home, About Us, Services, Contact, FAQ Healthbot, and Male grooming-related information etc.
 - The user can learn about a wide range of male grooming services through this website.
-- Included the feedback survey form to increase the scope of improvement.
+- Included the Contact Us survey form to increase the scope of improvement.
 
 
 Project Screenshot : 
