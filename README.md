@@ -8,7 +8,7 @@ This web-based application has been developed for the Future Ready Talent Intern
 
 Project Demo URL : https://zealous-moss-0c1781400.3.azurestaticapps.net/
 
-Project Demo Video URL : https://youtu.be/fDf-puB8V0I
+Project Demo Video URL : https://youtu.be/dXrqCu5LwY4
 
 
 Azure Technologies Used For Project :
