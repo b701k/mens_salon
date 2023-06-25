@@ -5,8 +5,8 @@ This web based application has been developed for the accomplishment of Future R
 
 Azure Technologies Used For Project :
 
-Static Web Apps,
-Health Bot
+- Static Web Apps
+- Health Bot
 
 
 Features and Functionalities :
