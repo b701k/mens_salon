@@ -8,14 +8,18 @@ We’re always looking for ways to improve our services and provide the best pos
 
 Thank you for your interest in the Men’s Salon project. We hope you find it useful and enjoyable!"
 
+
 This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+
 
 Azure Technologies Used For Project :
 
-Static Web Apps
+Static Web Apps,
 Health Bot
 
+
 Features and Functionalities :
+
 
 Interactive and responsive UI.
 Has many graphical and visual innovative effects.
