@@ -1,22 +1,22 @@
 # mens_salon
 "Men’s Salon is a web-based application dedicated to providing top-quality grooming services for men."
 
-This web-based application has been developed for the Future Ready Talent Internship Program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
+#This web-based application has been developed for the Future Ready Talent Internship Program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
 
-Azure Technologies Used For Project :
+#Azure Technologies Used For Project :
 
 - Static Web Apps
 - Health Bot
 
 
-Features and Functionalities :
+#Features and Functionalities :
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Services, Contact, FAQ Healthbot and Male Grooming related information etc.
-- User can know about a wide range of male grooming services information through this website.
+- Has a collection of many web pages including Home, About Us, Services, Contact, FAQ Healthbot, and Male grooming-related information etc.
+- The user can learn about a wide range of male grooming services through this website.
 - Included the feedback survey form to increase the scope of improvement.
 
 
@@ -39,7 +39,7 @@ Project Screenshot :
 ![Screenshot 8](https://github.com/b701k/mens_salon/assets/132773677/a3ead4bb-f336-4708-9816-c2181e2a14bd)
 
 
-Tech Stack :
+#Tech Stack :
   
 - Azure(Hosting)
 - HTML
