@@ -20,14 +20,14 @@
 - Included the feedback survey form to increase the scope of improvement.
 
 
-Project GitHub Pages URL : https://b701k.github.io/mens_salon/
+# Project GitHub Pages URL : https://b701k.github.io/mens_salon/
 
-Project Demo URL : https://zealous-moss-0c1781400.3.azurestaticapps.net/
+# Project Demo URL : https://zealous-moss-0c1781400.3.azurestaticapps.net/
 
-Project Demo Video URL : https://youtu.be/fDf-puB8V0I
+# Project Demo Video URL : https://youtu.be/fDf-puB8V0I
 
 
-Project Screenshot : 
+# Project Screenshot : 
 
 ![Screenshot 1](https://github.com/b701k/mens_salon/assets/132773677/3eadb70e-32be-412c-a432-e7842a1e8f0c)
 ![Screenshot 2](https://github.com/b701k/mens_salon/assets/132773677/8170e39a-b811-4226-90e6-b4d80415fba5)
