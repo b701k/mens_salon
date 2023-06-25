@@ -1,4 +1,5 @@
-# mens_salon
+# Mens Salon
+
 "Men’s Salon is a web-based application dedicated to providing top-quality grooming services for men."
 
 # This web-based application has been developed for the Future Ready Talent Internship Program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
