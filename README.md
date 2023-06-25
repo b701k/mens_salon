@@ -38,8 +38,9 @@ Project Screenshot :
 ![Screenshot 8](https://github.com/b701k/mens_salon/assets/132773677/a3ead4bb-f336-4708-9816-c2181e2a14bd)
 
 
-- Tech Stack :
-# https://azure.microsoft.com/en-in/get-started/azure-portal/ Azure(Hosting)
+Tech Stack :
+  
+- Azure(Hosting)
 - HTML
 - CSS
 - Bootstrap
