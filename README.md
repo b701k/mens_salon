@@ -8,6 +8,22 @@ We’re always looking for ways to improve our services and provide the best pos
 
 Thank you for your interest in the Men’s Salon project. We hope you find it useful and enjoyable!"
 
+This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+
+Azure Technologies Used For Project :
+
+Static Web Apps
+Health Bot
+
+Features and Functionalities :
+
+Interactive and responsive UI.
+Has many graphical and visual innovative effects.
+Have an aesthetically pleasing visual design and architecture.
+Has collection of many web pages including Home, About Us, Contact, Menu, FAQ topics and Male Grooming related information etc.
+User can know about A Wide Range Of Male Grooming Services information through this website.
+Included the feedback Survey form to increase the scope of improvement.
+
 Project GitHub Pages URL : https://b701k.github.io/mens_salon/
 
 Project Demo URL : https://zealous-moss-0c1781400.3.azurestaticapps.net/
