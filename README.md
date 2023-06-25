@@ -34,8 +34,10 @@ Project Screenshot :
 ![Screenshot 4](https://github.com/b701k/mens_salon/assets/132773677/5db620e1-13c5-4f9b-976c-aecbc2e8c104)
 ![Screenshot 5](https://github.com/b701k/mens_salon/assets/132773677/63b844df-7096-4743-a466-5de858041df7)
 ![Screenshot 6](https://github.com/b701k/mens_salon/assets/132773677/e58695c6-566e-4ba6-ae4a-9b90828ff19b)
-![Screenshot 7](https://github.com/b701k/mens_salon/assets/132773677/913ccd4a-d87e-4517-9841-f8e5f3bd612c)
-![Screenshot 8](https://github.com/b701k/mens_salon/assets/132773677/ec644f79-6f47-4613-bbf7-9a0a50d4bf8e)
+![Screenshot 7](https://github.com/b701k/mens_salon/assets/132773677/3f167446-2cb3-4087-825f-69842a22dd1c)
+![Screenshot 8](https://github.com/b701k/mens_salon/assets/132773677/a3ead4bb-f336-4708-9816-c2181e2a14bd)
+
+
 
 
 
