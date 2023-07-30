@@ -44,8 +44,6 @@ Tech Stack :
 - Azure(Hosting)
 - HTML
 - CSS
-- Bootstrap
-- JavaScript
 
 - Project GitHub Pages URL : https://b701k.github.io/mens_salon/
 
